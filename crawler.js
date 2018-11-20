@@ -1,5 +1,5 @@
 'use strict';
-
+//测试github
 const Browser = require('./browser');
 const Pages = require('./pages');
 const Verification = require('./verification');
