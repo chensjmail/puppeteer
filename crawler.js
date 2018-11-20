@@ -1,5 +1,5 @@
 'use strict';
-//测试
+
 const Browser = require('./browser');
 const Pages = require('./pages');
 const Verification = require('./verification');
