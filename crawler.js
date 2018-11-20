@@ -3,7 +3,7 @@
 const Browser = require('./browser');
 const Pages = require('./pages');
 const Verification = require('./verification');
-
+//测试
 async function login(page_, user_name_, pass_ward_) {
     let tmp = await page_.waitForSelector('a[data-type=login]');
     // 1.打开登录页面
